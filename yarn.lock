@@ -3013,6 +3013,11 @@
   "resolved" "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz"
   "version" "3.0.0"
 
+"bulma@^0.9.1":
+  "integrity" "sha512-LSF69OumXg2HSKl2+rN0/OEXJy7WFEb681wtBlNS/ulJYR27J3rORHibdXZ6GVb/vyUzzYK/Arjyh56wjbFedA=="
+  "resolved" "https://registry.npmjs.org/bulma/-/bulma-0.9.1.tgz"
+  "version" "0.9.1"
+
 "bytes@3.0.0":
   "integrity" "sha1-0ygVQE1olpn4Wk6k+odV3ROpYEg="
   "resolved" "https://registry.yarnpkg.com/bytes/-/bytes-3.0.0.tgz"
