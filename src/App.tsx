@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import React from 'react';
-import HeaderComponent from './components/HeaderComponent';
+import React from "react";
+import "bulma";
+import HeaderComponent from "./components/HeaderComponent";
 
 function App() {
-  return (
-    <HeaderComponent />
-  );
+    return <HeaderComponent />;
 }
 
 export default App;
